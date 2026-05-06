@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507001017COHTGR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507001017G2KC7J</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA - DESDE OTRA PERSPECTIVA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>REA de Tecnología 2ºESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778105343545</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moum0ftj-0giqh1143</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Desde otra perspectiva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desde otra perspectiva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desde otra perspectiva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Desde otra perspectiva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0ftj-0giqh1143</odePageId>
+      <odeBlockId>block-1777977786933-8t6p5oluq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0ftj-0giqh1143</odePageId>
+          <odeBlockId>block-1777977786933-8t6p5oluq</odeBlockId>
+          <odeIdeviceId>idevice-1777977786932-t002tz6r2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mohamed_hassan-design-10007908.png" width="597" height="477" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977786932-t002tz6r2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mohamed_hassan-design-10007908.png\" width=\"597\" height=\"477\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0ftm-yv80tqsp5</odePageId>
+  <odeParentPageId>page-moum0ftj-0giqh1143</odeParentPageId>
+  <pageName>1. Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0ftm-yv80tqsp5</odePageId>
+      <odeBlockId>block-1777977144919-f1t19mzvp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0ftm-yv80tqsp5</odePageId>
+          <odeBlockId>block-1777977144919-f1t19mzvp</odeBlockId>
+          <odeIdeviceId>idevice-1777977144918-yiezrmr2k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El <strong>dibujo técnico</strong> es un medio fundamental para la comunicación y transmisión de ideas, siendo una herramienta indispensable en el proceso tecnológico porque para realizar correctamente la etapa de diseño es necesario realizar un dibujo detallando cada parte del prototipo a construir.</p>
+<p style="text-align: justify;">En el desarrollo de este <strong>proyecto </strong>vamos a aprender a realizar el croquis y la toma de mediciones necesarias para realizar un nuevo diseño y volumetría del aula taller de tecnología.</p>
+<p style="text-align: justify;">A continuación se muestra las fases de la tarea:</p>
+<p><img src="{{context_path}}/content/resources/crono.png" width="1080" height="717" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977144918-yiezrmr2k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El <strong>dibujo técnico</strong> es un medio fundamental para la comunicación y transmisión de ideas, siendo una herramienta indispensable en el proceso tecnológico porque para realizar correctamente la etapa de diseño es necesario realizar un dibujo detallando cada parte del prototipo a construir.</p>\n<p style=\"text-align: justify;\">En el desarrollo de este <strong>proyecto </strong>vamos a aprender a realizar el croquis y la toma de mediciones necesarias para realizar un nuevo diseño y volumetría del aula taller de tecnología.</p>\n<p style=\"text-align: justify;\">A continuación se muestra las fases de la tarea:</p>\n<p><img src=\"{{context_path}}/content/resources/crono.png\" width=\"1080\" height=\"717\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0ftn-9z9pw2nt9</odePageId>
+  <odeParentPageId>page-moum0ftj-0giqh1143</odeParentPageId>
+  <pageName>2. Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0ftn-9z9pw2nt9</odePageId>
+      <odeBlockId>block-1777977948851-6urzl0zvz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0ftn-9z9pw2nt9</odePageId>
+          <odeBlockId>block-1777977948851-6urzl0zvz</odeBlockId>
+          <odeIdeviceId>idevice-1777977948850-vhjtibf2y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta <strong>SDA Desde otra perspectiva</strong> pertenece al <strong>Bloque de contenidos 2 Expresión y comunicación técnica</strong> dentro de la materia de <strong>Tecnología </strong>de <strong>2ESO</strong>. Siguiendo la planificación del presente curso escolar se ubica al final de la <span style="text-decoration: underline;">1º evaluación</span>.</p>
+<p><img src="{{context_path}}/content/resources/cronologia curso.png" width="516" height="317" alt="" /></p>
+<p>Se establece como SDA 4, habiendo ya el alumnado adquirido conocimientos previos relacionados con el proceso tecnológico y dibujo.</p>
+<p>Según la Programación Didáctica del Departamento se relaciona con los siguientes <strong>criterios de evaluación</strong>:</p>
+<p><strong> CE 2.1</strong>: representar objetos mediante vistas y perspectivas (isométrica y caballera) aplicando criterios de normalización y escalas, conociendo y manejando los principales instrumentos del dibujo técnico.</p>
+<p><strong>CE 2.2</strong>: interpretar y elaborar croquis y bocetos como elementos de información de productos tecnológicos, representando objetos mediante instrumentos de dibujo técnico y aplicaciones de diseño asistido por ordenador. </p>
+<p><strong>CE 2.3:</strong> explicar y elaborar la documentación técnica necesaria para el desarrollo de un proyecto técnico, desde su diseño hasta su comercialización.</p>
+<p><strong>CE 5.2: </strong>utilizar de forma segura sistemas de intercambio de información, manteniendo y optimizando el funcionamiento de un equipo informático, aplicando las destrezas básicas para manejar herramientas de ofimática elementales y conociendo internet de forma segura y responsable para buscar, publicar e intercambiar información a través de servicios web. </p>
+<p><strong>CE 5.3</strong>: utilizar un equipo informático para elaborar y comunicar proyectos técnicos, manejando un entorno de programación, que permita resolver problemas y controlar sistemas automáticos programados y robóticos sencillos, comprendiendo y describiendo su funcionamiento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977948850-vhjtibf2y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta <strong>SDA Desde otra perspectiva</strong> pertenece al <strong>Bloque de contenidos 2 Expresión y comunicación técnica</strong> dentro de la materia de <strong>Tecnología </strong>de <strong>2ESO</strong>. Siguiendo la planificación del presente curso escolar se ubica al final de la <span style=\"text-decoration: underline;\">1º evaluación</span>.</p>\n<p><img src=\"{{context_path}}/content/resources/cronologia curso.png\" width=\"516\" height=\"317\" alt=\"\" /></p>\n<p>Se establece como SDA 4, habiendo ya el alumnado adquirido conocimientos previos relacionados con el proceso tecnológico y dibujo.</p>\n<p>Según la Programación Didáctica del Departamento se relaciona con los siguientes <strong>criterios de evaluación</strong>:</p>\n<p><strong> CE 2.1</strong>: representar objetos mediante vistas y perspectivas (isométrica y caballera) aplicando criterios de normalización y escalas, conociendo y manejando los principales instrumentos del dibujo técnico.</p>\n<p><strong>CE 2.2</strong>: interpretar y elaborar croquis y bocetos como elementos de información de productos tecnológicos, representando objetos mediante instrumentos de dibujo técnico y aplicaciones de diseño asistido por ordenador. </p>\n<p><strong>CE 2.3:</strong> explicar y elaborar la documentación técnica necesaria para el desarrollo de un proyecto técnico, desde su diseño hasta su comercialización.</p>\n<p><strong>CE 5.2: </strong>utilizar de forma segura sistemas de intercambio de información, manteniendo y optimizando el funcionamiento de un equipo informático, aplicando las destrezas básicas para manejar herramientas de ofimática elementales y conociendo internet de forma segura y responsable para buscar, publicar e intercambiar información a través de servicios web. </p>\n<p><strong>CE 5.3</strong>: utilizar un equipo informático para elaborar y comunicar proyectos técnicos, manejando un entorno de programación, que permita resolver problemas y controlar sistemas automáticos programados y robóticos sencillos, comprendiendo y describiendo su funcionamiento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0fto-4pljrmx3b</odePageId>
+  <odeParentPageId>page-moum0ftj-0giqh1143</odeParentPageId>
+  <pageName>3. Contenido</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Contenido</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0fto-4pljrmx3b</odePageId>
+      <odeBlockId>block-1777979131504-9ihvosslx</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0fto-4pljrmx3b</odePageId>
+          <odeBlockId>block-1777979131504-9ihvosslx</odeBlockId>
+          <odeIdeviceId>idevice-1777979131503-97wb78tse</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se adjunta enlace a <strong>Classroom </strong>donde os podéis descargar la documentación principal de la SDA así como a la plataforma <strong>Paddlet </strong>donde hay otros recursos visuales que sirven de apoyo.</p>
+<p><a href="https://classroom.google.com/c/ODYxMjAwMjE5NjQ3/m/ODYxMjAyNjgzOTE3/details">https://classroom.google.com/c/ODYxMjAwMjE5NjQ3/m/ODYxMjAyNjgzOTE3/details</a> </p>
+<p><a href="https://padlet.com/48marinamz90/sda-desde-otra-perspectiva-dibujo-t-cnico-jl330xudctk9i8b4">https://padlet.com/48marinamz90/sda-desde-otra-perspectiva-dibujo-t-cnico-jl330xudctk9i8b4</a></p>
+<p><br /></p>
+<p>Se os recuerda también la información referente a protección de datos personales y garantías de derechos digitales:</p>
+<p><a href="https://view.genially.com/69ca53e7e205230a8340fa09">https://view.genially.com/69ca53e7e205230a8340fa09</a> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979131503-97wb78tse","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se adjunta enlace a <strong>Classroom </strong>donde os podéis descargar la documentación principal de la SDA así como a la plataforma <strong>Paddlet </strong>donde hay otros recursos visuales que sirven de apoyo.</p>\n<p><a href=\"https://classroom.google.com/c/ODYxMjAwMjE5NjQ3/m/ODYxMjAyNjgzOTE3/details\">https://classroom.google.com/c/ODYxMjAwMjE5NjQ3/m/ODYxMjAyNjgzOTE3/details</a> </p>\n<p><a href=\"https://padlet.com/48marinamz90/sda-desde-otra-perspectiva-dibujo-t-cnico-jl330xudctk9i8b4\">https://padlet.com/48marinamz90/sda-desde-otra-perspectiva-dibujo-t-cnico-jl330xudctk9i8b4</a></p>\n<p><br /></p>\n<p>Se os recuerda también la información referente a protección de datos personales y garantías de derechos digitales:</p>\n<p><a href=\"https://view.genially.com/69ca53e7e205230a8340fa09\">https://view.genially.com/69ca53e7e205230a8340fa09</a> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0fto-ykjsm5ove</odePageId>
+  <odeParentPageId>page-moum0ftj-0giqh1143</odeParentPageId>
+  <pageName>4. Proyecto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0fto-l5mvjs9un</odePageId>
+  <odeParentPageId>page-moum0fto-ykjsm5ove</odeParentPageId>
+  <pageName>4.1 Fase 0 - Toma de mediciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1 Fase 0 - Toma de mediciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1 Fase 0 - Toma de mediciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1 Fase 0 - Toma de mediciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0fto-l5mvjs9un</odePageId>
+      <odeBlockId>block-1778102479891-i4ot4x7ty</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0fto-l5mvjs9un</odePageId>
+          <odeBlockId>block-1778102479891-i4ot4x7ty</odeBlockId>
+          <odeIdeviceId>idevice-1778102479889-n3hn2c1ka</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong>Descripción de la actividad:</strong></span></p>
+<p>En esta tarea inicial debéis recoger las medidas y notas necesarios, realizando un croquis para posteriormente llevar a cabo el plano del aula taller.</p>
+<p><span style="text-decoration: underline;"><strong>Temporización:</strong></span></p>
+<p>2 horas (1 hora para la medición y  croquis y 1 hora para el nuevo diseño del aula)</p>
+<p><span style="text-decoration: underline;"><strong>Recursos necesarios:</strong></span></p>
+<p>Material para dibujar (lápiz, goma y papel) y metro.</p>
+<p><span style="text-decoration: underline;"><strong>Agrupamiento:</strong></span></p>
+<p>Grupos de 3 alumnos.</p>
+<p><span style="text-decoration: underline;"><strong>Entrega de la actividad y documentación requerida:</strong></span></p>
+<p>El grupo de trabajo debe entregar en Classroom el croquis indicando el nuevo diseño del aula taller. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778102479889-n3hn2c1ka","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong>Descripción de la actividad:</strong></span></p>\n<p>En esta tarea inicial debéis recoger las medidas y notas necesarios, realizando un croquis para posteriormente llevar a cabo el plano del aula taller.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Temporización:</strong></span></p>\n<p>2 horas (1 hora para la medición y  croquis y 1 hora para el nuevo diseño del aula)</p>\n<p><span style=\"text-decoration: underline;\"><strong>Recursos necesarios:</strong></span></p>\n<p>Material para dibujar (lápiz, goma y papel) y metro.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Agrupamiento:</strong></span></p>\n<p>Grupos de 3 alumnos.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Entrega de la actividad y documentación requerida:</strong></span></p>\n<p>El grupo de trabajo debe entregar en Classroom el croquis indicando el nuevo diseño del aula taller. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0fto-5cwbva0v4</odePageId>
+  <odeParentPageId>page-moum0fto-ykjsm5ove</odeParentPageId>
+  <pageName>4.2 Fase 1 - Volumetría</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2 Fase 1 - Volumetría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2 Fase 1 - Volumetría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.2 Fase 1 - Volumetría</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0fto-5cwbva0v4</odePageId>
+      <odeBlockId>block-1778104110651-dhv6q0o5h</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0fto-5cwbva0v4</odePageId>
+          <odeBlockId>block-1778104110651-dhv6q0o5h</odeBlockId>
+          <odeIdeviceId>idevice-1778104110650-adot19p60</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong>Descripción de la actividad:</strong></span></p>
+<p>En esta tarea debéis dibujar en 3D la nueva distribución del aula taller.</p>
+<p><span style="text-decoration: underline;"><strong>Temporización:</strong></span></p>
+<p>3 horas.</p>
+<p><span style="text-decoration: underline;"><strong>Recursos necesarios:</strong></span></p>
+<p>Portátil y programa DAO (Tinkercard).</p>
+<p><strong><span style="text-decoration: underline;">Agrupamiento:</span></strong></p>
+<p>Grupos de 3 alumnos.</p>
+<p><span style="text-decoration: underline;"><strong>Entrega de la actividad y documentación requerida:</strong></span></p>
+<p>El grupo de trabajo debe entregar en Classroom el archivo de trabajo generado por el programa DAO. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104110650-adot19p60","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong>Descripción de la actividad:</strong></span></p>\n<p>En esta tarea debéis dibujar en 3D la nueva distribución del aula taller.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Temporización:</strong></span></p>\n<p>3 horas.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Recursos necesarios:</strong></span></p>\n<p>Portátil y programa DAO (Tinkercard).</p>\n<p><strong><span style=\"text-decoration: underline;\">Agrupamiento:</span></strong></p>\n<p>Grupos de 3 alumnos.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Entrega de la actividad y documentación requerida:</strong></span></p>\n<p>El grupo de trabajo debe entregar en Classroom el archivo de trabajo generado por el programa DAO. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0ftp-nvkis8ac8</odePageId>
+  <odeParentPageId>page-moum0fto-ykjsm5ove</odeParentPageId>
+  <pageName>4.3 Fase Final - Presentación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3 Fase Final - Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3 Fase Final - Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.3 Fase Final - Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0ftp-nvkis8ac8</odePageId>
+      <odeBlockId>block-1778104281431-musspd8yl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0ftp-nvkis8ac8</odePageId>
+          <odeBlockId>block-1778104281431-musspd8yl</odeBlockId>
+          <odeIdeviceId>idevice-1778104281430-h8fglwrsy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong>Descripción de la actividad:</strong></span></p>
+<p>En esta tarea final debéis realizar exposición explicando el proyecto realizado.</p>
+<p><strong><span style="text-decoration: underline;">Temporización:</span></strong></p>
+<p>2 horas.</p>
+<p><span style="text-decoration: underline;"><strong>Recursos necesarios:</strong></span></p>
+<p>Portátil y herramienta para realizar presentación digital (Canva, Genially o similar).</p>
+<p><span style="text-decoration: underline;"><strong>Agrupamiento:</strong></span></p>
+<p>Grupos de 3 alumnos.</p>
+<p><strong><span style="text-decoration: underline;">Entrega de la actividad y documentación requerida:</span></strong></p>
+<p>El grupo de trabajo debe entregar la presentación digital en Classroom. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104281430-h8fglwrsy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong>Descripción de la actividad:</strong></span></p>\n<p>En esta tarea final debéis realizar exposición explicando el proyecto realizado.</p>\n<p><strong><span style=\"text-decoration: underline;\">Temporización:</span></strong></p>\n<p>2 horas.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Recursos necesarios:</strong></span></p>\n<p>Portátil y herramienta para realizar presentación digital (Canva, Genially o similar).</p>\n<p><span style=\"text-decoration: underline;\"><strong>Agrupamiento:</strong></span></p>\n<p>Grupos de 3 alumnos.</p>\n<p><strong><span style=\"text-decoration: underline;\">Entrega de la actividad y documentación requerida:</span></strong></p>\n<p>El grupo de trabajo debe entregar la presentación digital en Classroom. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0ftp-nt08oeapy</odePageId>
+  <odeParentPageId>page-moum0ftj-0giqh1143</odeParentPageId>
+  <pageName>5. Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0ftq-vk7hco77e</odePageId>
+  <odeParentPageId>page-moum0ftp-nt08oeapy</odeParentPageId>
+  <pageName>5.1 Evaluación Fase 0</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.1 Evaluación Fase 0</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.1 Evaluación Fase 0</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0ftq-vk7hco77e</odePageId>
+      <odeBlockId>block-1777979903436-047p18qip</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0ftq-vk7hco77e</odePageId>
+          <odeBlockId>block-1777979903436-047p18qip</odeBlockId>
+          <odeIdeviceId>idevice-1777979903435-d1okf4wlp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta fase inicial del proyecto se evalúa el <strong>criterio de evaluación CE 2.2</strong>: interpretar y elaborar croquis y bocetos como elementos de información de productos tecnológicos, representando objetos mediante instrumentos de dibujo técnico y aplicaciones de diseño asistido por ordenador. </p>
+<p>Como instrumento para su evaluación se emplea la siguiente <strong>lista de control</strong>:</p>
+<p><img src="{{context_path}}/content/resources/lista control.png" width="571" height="449" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979903435-d1okf4wlp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta fase inicial del proyecto se evalúa el <strong>criterio de evaluación CE 2.2</strong>: interpretar y elaborar croquis y bocetos como elementos de información de productos tecnológicos, representando objetos mediante instrumentos de dibujo técnico y aplicaciones de diseño asistido por ordenador. </p>\n<p>Como instrumento para su evaluación se emplea la siguiente <strong>lista de control</strong>:</p>\n<p><img src=\"{{context_path}}/content/resources/lista control.png\" width=\"571\" height=\"449\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0ftq-ffqedzr5s</odePageId>
+  <odeParentPageId>page-moum0ftp-nt08oeapy</odeParentPageId>
+  <pageName>5.2 Evaluación Fase 1</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.2 Evaluación Fase 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.2 Evaluación Fase 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.2 Evaluación Fase 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0ftq-ffqedzr5s</odePageId>
+      <odeBlockId>block-1777980150654-7dwfc9mmo</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0ftq-ffqedzr5s</odePageId>
+          <odeBlockId>block-1777980150654-7dwfc9mmo</odeBlockId>
+          <odeIdeviceId>idevice-1777980150654-fn823vxa2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta fase del proyecto se evalúan los siguientes <strong>criterios de evaluación:</strong></p>
+<p><strong>CE 2.1:</strong> representar objetos mediante vistas y perspectivas (isométrica y caballera) aplicando criterios de normalización y escalas, conociendo y manejando los principales instrumentos del dibujo técnico. </p>
+<p><strong> CE 2.2</strong>: interpretar y elaborar croquis y bocetos como elementos de información de productos tecnológicos, representando objetos mediante instrumentos de dibujo técnico y aplicaciones de diseño asistido por ordenador. </p>
+<p><strong>CE 2.3: </strong>explicar y elaborar la documentación técnica necesaria para el desarrollo de un proyecto técnico, desde su diseño hasta su comercialización.</p>
+<p>Como instrumento para su evaluación se emplea la siguiente <strong>rúbrica</strong>:</p>
+<p><img src="{{context_path}}/content/resources/rubrica faase 1.png" width="521" height="682" alt="" /></p>
+<p>Modelo de puntuación:</p>
+<p>24–28 puntos: Sobresaliente<br />18–23 puntos: Notable<br />12–17 puntos: Aprobado<br /><12 puntos: Insuficiente</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777980150654-fn823vxa2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta fase del proyecto se evalúan los siguientes <strong>criterios de evaluación:</strong></p>\n<p><strong>CE 2.1:</strong> representar objetos mediante vistas y perspectivas (isométrica y caballera) aplicando criterios de normalización y escalas, conociendo y manejando los principales instrumentos del dibujo técnico. </p>\n<p><strong> CE 2.2</strong>: interpretar y elaborar croquis y bocetos como elementos de información de productos tecnológicos, representando objetos mediante instrumentos de dibujo técnico y aplicaciones de diseño asistido por ordenador. </p>\n<p><strong>CE 2.3: </strong>explicar y elaborar la documentación técnica necesaria para el desarrollo de un proyecto técnico, desde su diseño hasta su comercialización.</p>\n<p>Como instrumento para su evaluación se emplea la siguiente <strong>rúbrica</strong>:</p>\n<p><img src=\"{{context_path}}/content/resources/rubrica faase 1.png\" width=\"521\" height=\"682\" alt=\"\" /></p>\n<p>Modelo de puntuación:</p>\n<p>24–28 puntos: Sobresaliente<br />18–23 puntos: Notable<br />12–17 puntos: Aprobado<br /><12 puntos: Insuficiente</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0ftq-5l0d58x40</odePageId>
+  <odeParentPageId>page-moum0ftp-nt08oeapy</odeParentPageId>
+  <pageName>5.3 Evaluación Fase Final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.3 Evaluación Fase Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>XXXXX5.3 Evaluación Fase Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.3 Evaluación Fase Final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0ftq-5l0d58x40</odePageId>
+      <odeBlockId>block-1778063558099-4os2o0h6e</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0ftq-5l0d58x40</odePageId>
+          <odeBlockId>block-1778063558099-4os2o0h6e</odeBlockId>
+          <odeIdeviceId>idevice-1778063558099-1umjztwd8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta fase final del proyecto se evalúan los siguientes <strong>criterios de evaluación:</strong></p>
+<p><strong>CE 2.3:</strong> explicar y elaborar la documentación técnica necesaria para el desarrollo de un proyecto técnico, desde su diseño hasta su comercialización.</p>
+<p><strong>CE 5.2:</strong> utilizar de forma segura sistemas de intercambio de información, manteniendo y optimizando el funcionamiento de un equipo informático, aplicando las destrezas básicas para manejar herramientas de ofimática elementales y conociendo internet de forma segura y responsable para buscar, publicar e intercambiar información a través de servicios web.</p>
+<p><strong>CE 5.3: </strong>utilizar un equipo informático para elaborar y comunicar proyectos técnicos, manejando un entorno de programación, que permita resolver problemas y controlar sistemas automáticos programados y robóticos sencillos, comprendiendo y describiendo su funcionamiento.</p>
+<p>Como instrumento para su evaluación se emplea la siguiente <strong>rúbrica</strong>:</p>
+<p><img src="{{context_path}}/content/resources/rubrica fase 2.png" width="538" height="630" alt="" /></p>
+<p>Puntuación máxima 10.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778063558099-1umjztwd8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta fase final del proyecto se evalúan los siguientes <strong>criterios de evaluación:</strong></p>\n<p><strong>CE 2.3:</strong> explicar y elaborar la documentación técnica necesaria para el desarrollo de un proyecto técnico, desde su diseño hasta su comercialización.</p>\n<p><strong>CE 5.2:</strong> utilizar de forma segura sistemas de intercambio de información, manteniendo y optimizando el funcionamiento de un equipo informático, aplicando las destrezas básicas para manejar herramientas de ofimática elementales y conociendo internet de forma segura y responsable para buscar, publicar e intercambiar información a través de servicios web.</p>\n<p><strong>CE 5.3: </strong>utilizar un equipo informático para elaborar y comunicar proyectos técnicos, manejando un entorno de programación, que permita resolver problemas y controlar sistemas automáticos programados y robóticos sencillos, comprendiendo y describiendo su funcionamiento.</p>\n<p>Como instrumento para su evaluación se emplea la siguiente <strong>rúbrica</strong>:</p>\n<p><img src=\"{{context_path}}/content/resources/rubrica fase 2.png\" width=\"538\" height=\"630\" alt=\"\" /></p>\n<p>Puntuación máxima 10.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0ftr-hv4g4b22z</odePageId>
+  <odeParentPageId>page-moum0ftp-nt08oeapy</odeParentPageId>
+  <pageName>5.4 Reflexiones y autoevaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.4 Reflexiones y autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.4 Reflexiones y autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0ftr-hv4g4b22z</odePageId>
+      <odeBlockId>block-1778100253765-kgsn5ayvw</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0ftr-hv4g4b22z</odePageId>
+          <odeBlockId>block-1778100253765-kgsn5ayvw</odeBlockId>
+          <odeIdeviceId>idevice-1778100253763-u0ln8m4xm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong>Reflexiones:</strong></span></p>
+<p>En este punto vamos a analizar qué es lo que hemos aprendido con el proyecto y para ello completaremos la siguiente <strong>escalera metacognitiva</strong>: </p>
+<p><img src="{{context_path}}/content/resources/escalera.png" width="510" height="517" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="text-decoration: underline;"><strong></strong></span><br /></p>
+<p><span style="text-decoration: underline;"><strong></strong></span></p>
+<p><span style="text-decoration: underline;"><strong>Autoevaluación:</strong></span></p>
+<p>Finalmente concluimos pensando en nuestra labor dentro del trabajo grupal y se hará rellenando la siguiente <strong>diana</strong>:</p>
+<p><img src="{{context_path}}/content/resources/autoevaluacion.png" width="579" height="803" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778100253763-u0ln8m4xm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong>Reflexiones:</strong></span></p>\n<p>En este punto vamos a analizar qué es lo que hemos aprendido con el proyecto y para ello completaremos la siguiente <strong>escalera metacognitiva</strong>: </p>\n<p><img src=\"{{context_path}}/content/resources/escalera.png\" width=\"510\" height=\"517\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"text-decoration: underline;\"><strong></strong></span><br /></p>\n<p><span style=\"text-decoration: underline;\"><strong></strong></span></p>\n<p><span style=\"text-decoration: underline;\"><strong>Autoevaluación:</strong></span></p>\n<p>Finalmente concluimos pensando en nuestra labor dentro del trabajo grupal y se hará rellenando la siguiente <strong>diana</strong>:</p>\n<p><img src=\"{{context_path}}/content/resources/autoevaluacion.png\" width=\"579\" height=\"803\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moum0ftr-86u5e5x5h</odePageId>
+  <odeParentPageId>page-moum0ftj-0giqh1143</odeParentPageId>
+  <pageName>6. Créditos y licencia</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Créditos y licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Créditos y licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moum0ftr-86u5e5x5h</odePageId>
+      <odeBlockId>block-1778101770040-s5l0dighq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moum0ftr-86u5e5x5h</odePageId>
+          <odeBlockId>block-1778101770040-s5l0dighq</odeBlockId>
+          <odeIdeviceId>idevice-1778101770038-5kxf1thgr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1_dDNpLKu_oTLzStsDTnkJ-g.png" width="362" height="134" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/datos.png" width="602" height="135" alt="" /></p>
+<p><br /></p>
+<p><br /></p>
+<p>Este contenido fue creado con <a href="https://exelearning.net/">https://exelearning.net/</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos. </p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/iconos.png" width="513" height="131" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778101770038-5kxf1thgr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1_dDNpLKu_oTLzStsDTnkJ-g.png\" width=\"362\" height=\"134\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/datos.png\" width=\"602\" height=\"135\" alt=\"\" /></p>\n<p><br /></p>\n<p><br /></p>\n<p>Este contenido fue creado con <a href=\"https://exelearning.net/\">https://exelearning.net/</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos. </p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/iconos.png\" width=\"513\" height=\"131\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
